@@ -1,0 +1,74 @@
+Дариэн, волшебник*7, Школа Иллюзий
+
+СИЛ -1 (0)
+ЛОВ +2 (14)
+ТЕЛ +2 (14)
+ИНТ +3 (17)
+МДР +0 (10)
+ХАР +1 (12)
+
+КД: 12
+Хиты: 44
+КХ: 1к6
+БМ: 3
+
+Спас: ИНТ, МУД 
+  преимущество против магии очарования, иммун ко сну
+Навыки: Аркана (магия), Религия, История, Расследование (анализ), Восприятие
+
+Пассивная внимательность: 13
+
+Умения
+  Наследие фей
+    
+
+Заклинания
+  Ячейки: 5*0, 4*1, 3*2, 3*3, 1*4
+  Подготовка: 10
+  СлСпас: 14
+  Атака: +6
+  Известные фокусы: Огненный снаряд, Малая иллюзия (школа), Свет, Починка, Волшебная рука, Вспышка мечей
+  Книга заклинаний: 
+    I
+    Опознание, Тензоров парящий диск, Волшебная стрела, Доспехи мага, Сверкающие брызги, Безмолвный образ, Маскировка, Незримый слуга
+    II
+    Невидимость, Воображаемая сила, Размытый образ, Теневой клинок, Туманный шаг, Корона безумия
+    III
+    Огненный шар, Гипнотический узор, Леомундова хижина, Образ, Молния
+    IV
+    Магический глаз, Дверь в пространстве (в процессе изучения)
+
+Владения: 
+  Кинжалы, посохи, дротики, праща, легкие арбалет, длинные и короткие мечи, длинные и короткие луки
+Языки: 
+  Общий, Эльфийский, Драконий, Дворфийсий, Инфернальный (чтение и понимание)
+Оружие и броня:
+  Кинжал
+
+Прочий инвентарь:
+  30 зм
+  Книга заклинаний
+  Магический фокус
+  Гребешок
+  Косметичка
+  Ключи от магазина
+
+ARCANE RECOVERY
+Vou have learned to regain some of your magical energy
+by studying your spellbook. Once per day when you
+finish a short rest, you can choose expended spell slots
+to recover. The spell slots can have a combined leveI that
+is equal to or less than half your wizard leveI (rounded
+up), and none of the slots can be 6th leveI or higher.
+For example, ifyou're a 4th-leveI wizard, you can recover
+up to two leveIs worth of spell slots. Vou can recover either
+a 2nd-leveI spell slot or two 1st-levei spell slots.
+
+SCHOOL OF ILLUSION
+
+MALLEABLE ILLUSIONS
+Starting at 6th levei, when you cast an illusion spell that
+has a duration of 1 minute or longer, you can use yaur
+action to change the nature of that illusion (using the
+spell's normal parameters for lhe illusion), provided that
+you can see the illusion.
